@@ -1,2 +1,3 @@
-const temp = Date.now()
-console.log(temp)
+const arr = [1, 2, 3, 4]
+arr.length = 0;
+console.log(arr[0])
