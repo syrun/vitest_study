@@ -7,5 +7,8 @@ export default defineComponent({
 </script>
 
 <template>
-  <h1>{{ msg }}</h1>
+  <div>
+    <span>{{ msg }}</span>
+    <span>test</span>
+  </div>
 </template>
